@@ -2,7 +2,7 @@ import { ImgLink } from "../../utils/constants";
 
 const Banner = () => {
   return (
-    <div>
+    <div className="xl:px-24">
       <section className="flex flex-col-reverse md:flex-row md:justify-between gap-7">
         <div className="max-w-xl md:py-12">
           <h1 className="text-4xl font-extrabold lg:text-7xl md:leading-[6.25rem] lg:leading-[6.25rem]">
